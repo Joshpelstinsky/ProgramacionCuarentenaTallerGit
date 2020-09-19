@@ -1,0 +1,30 @@
+	--TEMARIO DE KOTLIN--
+
+1.  Importancia de Kotlin
+2.  Primer programa en Kotlin
+3.  Variables vs Objetos
+4.  Operadores
+5.  Tipos de variables
+6.  Programación funcional: funciones puras e inmutabilidad 
+7.  Strings
+8.  Conversión de tipos de datos
+9.  Rangos
+10. Sentencias If y When
+11. Bucles While y do while
+12. Break, Continue y Labels
+13. Valores nulos y double bang
+14. Operador Elvis
+15. Arreglos
+16. Expresiones vs Valores
+17. Funciones
+18. Lambdas
+19. Clases
+20. Modificadores de acceso
+21. Getters y Setters
+22. Data class
+23. Método constructor
+24. Herencia y polimorfismo
+25. Clases abstractas
+26. Interfaces
+27. Funciones de orden superior
+28. Recursividad
