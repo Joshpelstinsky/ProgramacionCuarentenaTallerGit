@@ -1,0 +1,8 @@
+********** TEMARIO GIT **********
+1.- ¿Que es GIT?
+2.- Comandos básicos de GIT y comandos de Linux
+3.- Configuración de usuarios
+4.- Áreas de repositorio
+5.- Inicializar un repositorio
+6.- Comparar cambios
+7.- Trabajando con repositorios remotos
